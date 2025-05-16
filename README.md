@@ -72,7 +72,7 @@ With the rise of AI-generated imagery (deepfakes, generative art, etc.), it's cr
 
 ## Report
 
-- See the detailed `report_3b.pdf` for more information on the methodology, experiments, and visualizations.
+- See the detailed [report_3b.pdf](./report_3b.pdf) for more information on the methodology, experiments, and visualizations.
 
 ---
 
