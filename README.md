@@ -87,10 +87,10 @@ With the rise of AI-generated imagery (deepfakes, generative art, etc.), it's cr
 ## Repository Structure
 
 ```plaintext
-├── ai_vs_real_levit192_model.pth    # Final trained model weights
-├── best_model.pth                   # Checkpoint with best validation accuracy
-├── config.py                       # Configuration file for hyperparameters and paths
-├── dataset.py                      # Custom dataset class and data loading code
-├── problem_3b.ipynb                # Main notebook for training, inference, and Grad-CAM visualization
-├── submission (6).csv              # Prediction results for submission
-├── report_3b.pdf                   # Detailed project report
+├── ai_vs_real_levit192_model.pth    
+├── best_model.pth                   # model with best validation accuracy
+├── config.py                        
+├── dataset.py                       
+├── problem_3b.ipynb                 # Main notebook for training, inference, and Grad-CAM visualization
+├── submission (6).csv               # Prediction results for submission
+├── report_3b.pdf                    # Detailed project report
